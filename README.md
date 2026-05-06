@@ -1,89 +1,104 @@
-## Hi there 👋
 
-<!--
-**jeevanL16/jeevanL16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi, I'm Jeevan L 👋</h1>
 
 <p align="center">
-  🎓 MCA @ Chanakya University (Sem 1: 9.16 CGPA)  |  🔐 Cybersecurity Specialisation <br/>
-  💻 Full-Stack Developer  |  🌱 Exploring AI/ML & Cybersecurity <br/>
-  📍 Bengaluru, Karnataka
+  <a href="https://linkedin.com/in/jeevan-l-940b7a370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jeevanl16@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/jeevanL16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jeevanL16&style=for-the-badge&color=534AB7" />
 </p>
+
+---
+
+## ⚡ About me
+
+```python
+jeevan = {
+    "degree"   : "MCA @ Chanakya University (Sem 1 CGPA: 9.16 / 10)",
+    "undergrad": "BCA @ Bengaluru North University (CGPA: 9.30 / 10)",
+    "focus"    : ["Full-Stack Dev", "Cybersecurity", "AI / ML"],
+    "shipped"  : ["University Portal (Django + PostgreSQL)", 
+                  "Blood Donation Portal (Flask + MySQL)"],
+    "currently": "Open to junior dev / internship roles",
+    "location" : "Bengaluru, Karnataka 🇮🇳",
+}
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Web & Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏛 Chanakya University Portal
-> Django · PostgreSQL · REST API · Bootstrap · Postman
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat)
 
-- Designed a 5-table PostgreSQL schema with FK constraints and cascade delete
-- Exposed 5 RESTful JSON endpoints with custom serialisers (no third-party libraries)
-- Role-gated admin dashboard — blocked 100% of unauthorised access in QA testing
+- 5-table schema with FK constraints — **zero integrity violations**
+- 5 RESTful endpoints, custom serialisers, no third-party libs
+- Role-gated admin dashboard — **100% unauthorised access blocked**
+- 6+ field server-side validation — **0% malformed submissions**
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🩸 Blood Donation Portal
-> Flask · MySQL · Python  |  [GitHub](https://github.com/jeevanL16/Blood-Donation-portal)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- Manages 200+ live donor and blood-request records — zero data-loss in all scenarios
-- Cut admin lookup time ~60% with normalised schema and indexed queries
-- Delivered 4 modules solo in 6 weeks — selected as BCA final-year project
+**[View on GitHub →](https://github.com/jeevanL16/Blood-Donation-portal)**
+
+- 200+ live donor records — **zero data-loss incidents**
+- Admin lookup time cut **~60%** via indexed queries
+- 4 modules delivered solo in **6 weeks**
+- Selected as BCA final-year project
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevanL16&show_icons=true&theme=default&hide_border=true" alt="Jeevan's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeevanL16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevanL16&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanL16&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect with me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevan-l-940b7a370)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jeevanL16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jeevanl16@outlook.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevanL16&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=100§ion=footer" width="100%"/>
